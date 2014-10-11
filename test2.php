@@ -7,6 +7,6 @@
  */
 class test2{
     public function index(){
-
+        echo "怎么没有";
     }
 }
