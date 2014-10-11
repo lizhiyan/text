@@ -8,6 +8,6 @@
 
 class test{
     public function __constart(){
-        echo "第三次了";exit;
+        echo "第";exit;
     }
 }
