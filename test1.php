@@ -8,6 +8,6 @@
 
 class test{
     public function __constart(){
-        echo "李志岩测试的仓库";exit;
+        echo "第二次修改";exit;
     }
 }
